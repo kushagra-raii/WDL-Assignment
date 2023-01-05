@@ -1,0 +1,84 @@
+body {font-size: 1.2em;
+    color: #ffffff;
+    font-family: calibri;
+    padding-right: 0px;
+    background-color: #18181b;
+}
+
+h1,h2,h3,h4,h5,h6,label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section,header,footer{
+    background-color: #242127;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+a {
+    color: #00ffff;
+    font-family: verdana;
+}
+
+table {
+    text-align: center;
+    
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+table,th,td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+tfoot>tr>td {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+nav>ul>li {
+    display: inline;
+    margin-right: 15px;
+}
+
+ol>article>ul>li {
+    margin-bottom: 2px;
+}
+
+ol {
+    margin: 10px;
+}
+
+
+
+
+.prof {
+    float: left;
+    padding-right: 10px;
+    padding-top: 11px;
+    height: 180px;
+    border-radius: 15px;
+}
+
+.skill {
+    text-align: left;
+    border-style: none;
+}
+
+#secSkill {
+    width: auto;
+}
+
